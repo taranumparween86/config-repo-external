@@ -2,4 +2,4 @@ server:
   port: 8082
 
 app:
-  message: "Hello from ORDER DEV service"
+  message: "Hello from ORDER DEV service updated"
