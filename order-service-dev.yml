@@ -2,4 +2,4 @@ server:
   port: 8082
 
 app:
-  message: "Refreshed dev without restart"
+  message: "Refreshed dev without restart Test"

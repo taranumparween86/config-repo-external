@@ -2,4 +2,4 @@ server:
   port: 8081
 
 app:
-  message: "Hello from DEV environment"
+  message: "Hello from DEV environment Refreshed without restart Test"
